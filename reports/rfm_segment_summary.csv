@@ -1,0 +1,8 @@
+segment,customers,revenue,avg_recency,avg_frequency,avg_monetary,customer_share,revenue_share
+Champions,1471,11781237.8,20.4,15.5,8009.0,25.1,69.0
+Loyal,1211,2465522.6,78.2,5.4,2035.9,20.7,14.4
+Can't lose them,356,1040022.0,341.4,7.7,2921.4,6.1,6.1
+Hibernating,1514,616967.4,459.0,1.3,407.5,25.9,3.6
+At risk,472,564801.7,380.8,3.0,1196.6,8.1,3.3
+New / Promising,447,397667.0,28.8,1.5,889.6,7.6,2.3
+Need attention,381,202364.3,107.5,1.4,531.1,6.5,1.2

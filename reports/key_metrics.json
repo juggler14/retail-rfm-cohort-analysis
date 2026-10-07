@@ -1,0 +1,70 @@
+{
+  "top20_revenue_share": 77.2,
+  "top1_revenue_share": 31.9,
+  "retention_m1": 21.0,
+  "retention_m3": 21.1,
+  "retention_m6": 18.5,
+  "retention_m12": 18.4,
+  "one_time_buyers_pct": 27.6,
+  "customers": 5852,
+  "revenue_jan_nov_2011_vs_2010_pct": 0.1,
+  "nov_share_of_2011": 14.8,
+  "segments": {
+    "Champions": {
+      "customers": 1471,
+      "customer_share": 25.1,
+      "revenue_share": 69.0,
+      "avg_recency": 20.4,
+      "avg_frequency": 15.5,
+      "avg_monetary": 8009.0
+    },
+    "Loyal": {
+      "customers": 1211,
+      "customer_share": 20.7,
+      "revenue_share": 14.4,
+      "avg_recency": 78.2,
+      "avg_frequency": 5.4,
+      "avg_monetary": 2035.9
+    },
+    "Can't lose them": {
+      "customers": 356,
+      "customer_share": 6.1,
+      "revenue_share": 6.1,
+      "avg_recency": 341.4,
+      "avg_frequency": 7.7,
+      "avg_monetary": 2921.4
+    },
+    "Hibernating": {
+      "customers": 1514,
+      "customer_share": 25.9,
+      "revenue_share": 3.6,
+      "avg_recency": 459.0,
+      "avg_frequency": 1.3,
+      "avg_monetary": 407.5
+    },
+    "At risk": {
+      "customers": 472,
+      "customer_share": 8.1,
+      "revenue_share": 3.3,
+      "avg_recency": 380.8,
+      "avg_frequency": 3.0,
+      "avg_monetary": 1196.6
+    },
+    "New / Promising": {
+      "customers": 447,
+      "customer_share": 7.6,
+      "revenue_share": 2.3,
+      "avg_recency": 28.8,
+      "avg_frequency": 1.5,
+      "avg_monetary": 889.6
+    },
+    "Need attention": {
+      "customers": 381,
+      "customer_share": 6.5,
+      "revenue_share": 1.2,
+      "avg_recency": 107.5,
+      "avg_frequency": 1.4,
+      "avg_monetary": 531.1
+    }
+  }
+}
